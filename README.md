@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hello, I'm Shubham Desai!<br><br>🎓 A passionate 3rd-year B.Tech IT student at JSPM RSCOE, Pune (2023–2027)  <br>💻 I love building real-world projects, exploring Java, Web Development, and learning through hands-on practice  <br>📈 Currently improving my Data Structures & Algorithms and showcasing my work on GitHub  <br>🎯 Goal: Land a high-impact internship and 7+ LPA placement in upcoming year  <br>🛠️ Always learning. Always building.<br><br>> "Code. Debug. Repeat. 🚀"<br>
+# 👋 Hello, I'm Shubham Desai!<br><br>🎓  3rd-year B.Tech IT student at JSPM RSCOE, Pune  <br>💻 I love building real-world projects, exploring Java, Web Development, and learning through hands-on practice  <br>🛠️ Always learning. Always building.<br><br>> "Code. Debug. Repeat. 🚀"<br>
 
 
 ## 🌐 Socials:
